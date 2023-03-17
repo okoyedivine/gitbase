@@ -5,8 +5,8 @@ border-style: solid; border: 10px;}
 
 legend{color: aliceblue;font-weight: bolder; font-size: small;}
 
-#myform {background-image: url(https://c4.wallpaperflare.com/wallpaper/752/194/470/circles-highlights-background-form-wallpaper-preview.jpg);
-background-size: 100%; height: 40vh;}
+body {background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
+background-size: 100%;}
 
 input {width: 100%;
     border-radius: 15px; margin: 8px 0px; box-sizing: border-box; outline: none; border: 2px solid #ccc; padding: 5px 2px;

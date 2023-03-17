@@ -1,0 +1,30 @@
+fieldset {background-color: #19A7CE;
+border-radius: 20px;
+border-color: #C9EEFF;
+border-style: solid; border: 10px;}
+
+legend{color: aliceblue;font-weight: bolder; font-size: small;}
+
+body {background-image: url(https://c4.wallpaperflare.com/wallpaper/752/194/470/circles-highlights-background-form-wallpaper-preview.jpg);
+background-size: 100%;}
+
+input {width: 100%;
+    border-radius: 15px; margin: 8px 0px; box-sizing: border-box; outline: none; border: 2px solid #ccc; padding: 5px 2px;
+}
+
+input:focus{background-color: cyan; border: 3px solid;}
+
+input[type=submit]{width: 100px;
+border-radius: 10px; background-color: #111D5E; color: white; text-align: center; float: right;}
+
+input[type=radio]{ width: auto;}
+
+input[type=text]{padding: 5px 2px;
+    margin: 8px 0px;}
+
+input[type=password]{ outline: none; border: 0px;}
+
+input[type=submit]:hover{cursor: pointer; background-color: green; color: black;}
+
+select{background-color: #7444e6; border-radius: 6px;}
+select:hover{background-color: rgb(240, 88, 113);}
